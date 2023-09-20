@@ -1,0 +1,6 @@
+.btn-dark:hover {
+    background-color: green; /* Cambia el color al pasar el cursor */
+    border-color: green; /* Cambia el color del borde al pasar el cursor */
+    color: #fff; /* Cambia el color del texto al pasar el cursor */
+  }
+  

@@ -1,0 +1,79 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "jeferson",
+      "email": "jeferson@sena.edu.co",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "jeferson@sena.edu.co",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "Kamilo-3211@gmail.com",
+      "password": "122223",
+      "id": 3
+    },
+    {
+      "email": "jeferson@sena.edu.co",
+      "password": "123456",
+      "id": 4
+    }
+  ],
+  "Productos": [
+    {
+      "id": "1",
+      "nombre": "Galletas Festival",
+      "precio": "25000",
+      "categoria": "dulces",
+      "region": "andina",
+      "direccion": "Suba",
+      "ciudad": "Bogota"
+    },
+    {
+      "id": "2",
+      "nombre": "Doritos Familiar",
+      "precio": "25000",
+      "categoria": "Paquetes",
+      "region": "Andina",
+      "direccion": "Subas",
+      "ciudad": "Bogota"
+    },
+    {
+      "id": "4",
+      "nombre": "Galletas Festival",
+      "precio": "25000",
+      "categoria": "Granos",
+      "region": "andina"
+    },
+    {
+      "id": "3",
+      "nombre": "Papas Margarita",
+      "precio": "1500",
+      "categoria": "Paquetes",
+      "region": "andina"
+    }
+  ],
+  "Envios": [
+    {
+      "id": "1",
+      "nombre": "Galletas Festival",
+      "precio": "25000",
+      "categoria": "dulces",
+      "region": "andina",
+      "direccionEnvio": "cll 22 #443 norte",
+      "ciudadEnvio": "Cali"
+    },
+    {
+      "id": "2",
+      "nombre": "Doritos Familiar",
+      "precio": "25000",
+      "categoria": "Paquetes",
+      "region": "Andina",
+      "direccionEnvio": "suba",
+      "ciudadEnvio": "Cali"
+    }
+  ]
+}
